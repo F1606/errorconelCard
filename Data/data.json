@@ -1,0 +1,18 @@
+[
+  {
+    "id 1": 1,
+    "img": "https://www.nhcoa.org/wp-content/uploads/2020/03/connection-4884862_640.jpg",
+    "info": "Informate Covid-19"
+  },
+
+  {
+    "id 1": 2,
+    "img": "https://www.eltiempo.com/files/article_content/uploads/2020/07/23/5f19c76bad001.png",
+    "info": "Tablas con informacion actualizadas "
+  },
+  {
+    "id 1": 2,
+    "img": "https://www.aenor.com/PublishingImages/certificacion/sistemas/sistemas-fichas/PROCESOS_COVID.jpg",
+    "info": "¡Te invitamos a seguir todos los protocolos de bioseguridad!"
+  }
+]
